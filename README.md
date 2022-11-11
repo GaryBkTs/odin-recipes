@@ -1,1 +1,2 @@
 # odin-recipes
+This is a brief introduction describing what the current project is.  Well, this project is a demonstration of the skills I have acquired throughout learning from these HTML lessons.  By its completion, I will have shown my usage of basics of HTML, Github workflow, and importance of commit usage.  
